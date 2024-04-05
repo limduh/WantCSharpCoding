@@ -18,6 +18,7 @@ namespace WantCSharpCoding
 
             Console.WriteLine(s);
         }
+        //메인 두개 만들어서 주석처리 후 Class2.cs 생성
         */
     }
 

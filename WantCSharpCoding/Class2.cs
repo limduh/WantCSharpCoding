@@ -18,6 +18,8 @@ namespace WantCSharpCoding
             s = Console.ReadLine();
 
             Console.WriteLine(s);
+            //주석했는데 깃 추가해 보자
+
         }
     }
 }
