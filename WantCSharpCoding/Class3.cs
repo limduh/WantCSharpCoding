@@ -13,11 +13,13 @@ namespace WantCSharpCoding
             public static void Main()
             {
                 String s;
+                String b = "b";
 
                 Console.Clear();
                 s = Console.ReadLine();
 
                 Console.WriteLine(s);
+                Console.WriteLine(b);
             }
         }
 
