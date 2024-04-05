@@ -13,7 +13,9 @@ namespace WantCSharpCoding
             public static void Main()
             {
                 String s;
+
                 String a = "a";
+
 
                 Console.Clear();
                 s = Console.ReadLine();
