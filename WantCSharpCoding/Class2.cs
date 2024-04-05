@@ -10,7 +10,7 @@ namespace WantCSharpCoding
     {
 
 
-        public static void Main()
+        /*public static void Main()
         {
             String s;
 
@@ -21,5 +21,6 @@ namespace WantCSharpCoding
             //주석했는데 깃 추가해 보자
 
         }
+        */
     }
 }
